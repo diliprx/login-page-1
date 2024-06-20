@@ -35,4 +35,5 @@ This repository contains the HTML and CSS code for the login page of KANNUR FC. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/diliprx/login-page-1/.git
+
+git clone https://github.com/diliprx/kannur-fc-login.git
